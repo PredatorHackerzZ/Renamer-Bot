@@ -18,7 +18,7 @@ License -> https://github.com/SPACE-X-BOTS/RENAMER-BOT/blob/master/LICENSE
 * `UPDATE_GROUP` Support group username without '@' for help & support
 * `UPDATE_CHANNEL` Updates channel username without '@' for force subscription
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/SPACE-X-BOTS/RENAME-BOT)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/SPACE-X-BOTS/RENAME-X2-BOT)
 
 ### Credits
 
