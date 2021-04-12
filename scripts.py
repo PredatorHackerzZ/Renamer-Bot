@@ -3,7 +3,7 @@ class Scripted(object):
 
     PROGRESS_DIS = """\n
 <b>📁 : {1} | {2}</b>\n
-<b>♂️ : {0}%</b>\n
+<b>🚀 : {0}%</b>\n
 <b>⚡ : {3}/s</b>\n
 <b>⏱️ : {4}</b>\n"""
 
@@ -19,15 +19,15 @@ class Scripted(object):
 
 
     ABOUT_TEXT = """
-<b>My Name : <a href='https://t.me/Rename_x2_Bot'>Rename X2 Bot</a></b>\n
-<b>Channel : <a href='https://t.me/space_x_bots'>Space X Bots</a></b>\n
-<b>Version : <a href='https://t.me/Rename_x2_Bot'>0.9.2 beta</a></b>\n
-<b>Source : <a href='https://github.com/Clinton-Abraham'>Click Here</a></b>\n
+<b>My Name : <a href='https://t.me/Renamer_teleroid_bot'>Rename X2 Bot</a></b>\n
+<b>Channel : <a href='https://t.me/TeleRoidGroup'>TÉLÉRØÎD</a></b>\n
+<b>Version : <a href='https://t.me/TeleRoid_Renamer_bot'>0.9.2 beta</a></b>\n
+<b>Source : <a href='https://github.com/P-Phreak'>Click Here</a></b>\n
 <b>Server : <a href='https://heroku.com'>Heroku</a></b>\n
 <b>Library : <a href='https://github.com/pyrogram'>Pyrogram 1.2.8</a></b>\n
 <b>Language : <a href='https://www.python.org'>Python 3.9.4</a></b>\n
-<b>Developer : <a href='https://t.me/clinton_abraham'>℃ℓ𝖏ήtø𝐧 ᗩ𝔟ⓡ𝐚ꫝαＭ</a></b>\n
-<b>Powered By : <a href='https://t.me/tamilweb57'>Tᴀᴍɪʟᴡᴇʙ Tɢ Nᴇᴛᴡᴏʀᴋ</a></b>\n"""
+<b>Developer : <a href='https://t.me/clinton_abraham'>Préd@tør</a></b>\n
+<b>Powered By : <a href='https://t.me/Moviesflixers_DL'>Tᴀᴍɪʟᴡᴇʙ Tɢ Nᴇᴛᴡᴏʀᴋ</a></b>\n"""
 
 
     CUSTOM_CAPTION = "<i>{}</i>"
