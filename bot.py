@@ -1,6 +1,6 @@
-# (@) Space X BOTS | https://github.com/Clinton-Abraham/RENAMER-BOT
+# (@) TeleRoidGroup| https://github.com/P-Phreak/RENAMER-BOT
 
-# (©) CLINTON ABRAHAM / [ 28-12-2020] 5:10 PM
+# (©) P-Phreak / [ 28-12-2020] 5:10 PM
 
 import os
 import logging
@@ -27,11 +27,11 @@ if __name__ == "__main__" :
     plugins = dict(
         root="plugins"
     )
-    app = Clinton("RENAME-X-BOT", 
+    app = Predator("TeleRoidRENAMEBOT", 
           bot_token=Config.TG_BOT_TOKEN, 
           api_id=Config.APP_ID,
           api_hash=Config.API_HASH,
           plugins=plugins
     )
-    Config.AUTH_USERS.add(1477582805)
+    Config.AUTH_USERS.add(1287407305)
     app.run()
