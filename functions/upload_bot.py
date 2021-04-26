@@ -1,4 +1,4 @@
-#https://github.com/Clinton-Abraham/RENAMER-BOT
+#https://github.com/P-Phreak/RENAMER-BOT
 
 import logging
 logging.basicConfig(level=logging.DEBUG,
