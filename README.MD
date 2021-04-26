@@ -1,4 +1,4 @@
-A simple Renamer bot with permenent thumbnail support
+This is a simple Renamer bot in telegram with permanent thumbnail support ....By @TeleRoid14
 
 ```
 Scrapped some code from @SpEcHIDe's AnyDLBot Repository
@@ -12,7 +12,7 @@ License -> https://github.com/P-Phreak/RENAMER-BOT/blob/master/LICENSE
 ### Variables
 
 * `API_HASH` Your API Hash from my.telegram.org
-* `API_ID` Your API ID from my.telegram.org
+* `API_ID` Your API ID from my.telegram.org 
 * `BOT_TOKEN` Your bot token from @BotFather
 * `AUTH_USERS` Allow only pre-defined users to use this bot
 * `UPDATE_GROUP` Support group username without '@' for help & support
