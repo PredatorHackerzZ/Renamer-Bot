@@ -45,6 +45,6 @@ class Scripted(object):
     DOWNLOAD_START = "<i>📥 Downloding your file please wait...</i>\n"
     JOIN_NOW_TEXT = "<code>Join My Update Channel To Use Me</code>"
     REPLY_TO_FILE = "<i>Reply to that file with /rename new name.ext</i>"
-    CONTACT_MY_DEVELOPER = "<i>Something Wrong Contact My Developer 🤯</i>"
-    START_TEXT = "<i>Simple file rename bot with permanent thumbnail support 💯</i>"
+    CONTACT_MY_DEVELOPER = "<i>𝕾𝖔𝖒𝖊𝖙𝖍𝖎𝖓𝖌 𝖂𝖗𝖔𝖓𝖌 𝕮𝖔𝖓𝖙𝖆𝖈𝖙 𝕸𝖞 𝕯𝖊𝖛𝖊𝖑𝖔𝖕𝖊𝖗 🤯</i>"
+    START_TEXT = "<i>𝕾𝖎𝖒𝖕𝖑𝖊 𝖋𝖎𝖑𝖊 𝖗𝖊𝖓𝖆𝖒𝖊 𝖇𝖔𝖙 𝖜𝖎𝖙𝖍 𝖕𝖊𝖗𝖒𝖆𝖓𝖊𝖓𝖙 𝖙𝖍𝖚𝖒𝖇𝖓𝖆𝖎𝖑 𝖘𝖚𝖕𝖕𝖔𝖗𝖙 💯</i>"
     UPGRADE_TEXT = "<b>To upgrade your subscription <a href='https://t.me/TeleRoid14'>[ Click Here ]</a></b>"
