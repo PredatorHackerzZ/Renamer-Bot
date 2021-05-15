@@ -33,7 +33,7 @@
       "value": "",
       "required": false
     },
-    "UPDATE_GRROUP": {
+    "UPDATE_GROUP": {
       "description": "Your Support Group USERNAME (without @)..",
       "value": ""
     },
