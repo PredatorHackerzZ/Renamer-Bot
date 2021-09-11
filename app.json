@@ -35,11 +35,11 @@
     },
     "UPDATE_GROUP": {
       "description": "Your Support Group USERNAME (without @)..",
-      "value": ""
+      "value": "TeleRoid14"
     },
      "UPDATE_CHANNEL": {
       "description": "For Force Subscribe. Update channel USERNAME (without @)..",
-      "value": ""
+      "value": "TeleRoidGroup"
     },
     "CHUNK_SIZE": {
       "description": "chunk size that should be used with requests",
