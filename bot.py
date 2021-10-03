@@ -1,6 +1,6 @@
-# (@) TeleRoidGroup| https://github.com/P-Phreak/RENAMER-BOT
+# (@) TeleRoidGroup| https://github.com/PredatorHackerzZ/RENAMER-BOT
 
-# (©) P-Phreak / [ 28-12-2020] 5:10 PM
+# (©) @PredatorHackerzZ | @Clinton-Abraham / [ 28-12-2020] 5:10 PM
 
 import os
 import logging
