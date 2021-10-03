@@ -1,6 +1,6 @@
-I think this repo gonna become one of the best renamer open source 🥰.
+🌀 𝐈 𝐭𝐡𝐢𝐧𝐤 𝐭𝐡𝐢𝐬 𝐫𝐞𝐩𝐨 𝐠𝐨𝐧𝐧𝐚 𝐛𝐞𝐜𝐨𝐦𝐞 𝐨𝐧𝐞 𝐨𝐟 𝐭𝐡𝐞 𝐛𝐞𝐬𝐭 𝐫𝐞𝐧𝐚𝐦𝐞𝐫 𝐨𝐩𝐞𝐧 𝐬𝐨𝐮𝐫𝐜𝐞 🥳.
 
-Please Give a ⭐ if you like this repo and also try following me for more best open source codes
+𝐏𝐥𝐞𝐚𝐬𝐞 𝐆𝐢𝐯𝐞 𝐚 ☆ 𝐢𝐟 𝐲𝐨𝐮 𝐥𝐢𝐤𝐞 𝐭𝐡𝐢𝐬 𝐫𝐞𝐩𝐨 𝐚𝐧𝐝 𝐚𝐥𝐬𝐨 𝐭𝐫𝐲 𝐟𝐨𝐥𝐥𝐨𝐰𝐢𝐧𝐠 𝐦𝐞 𝐟𝐨𝐫 𝐦𝐨𝐫𝐞 𝐛𝐞𝐬𝐭 𝐨𝐩𝐞𝐧 𝐬𝐨𝐮𝐫𝐜𝐞 𝐜𝐨𝐝𝐞𝐬
 
 ```
 Scrapped some code from @SpEcHIDe's AnyDLBot Repository
