@@ -1,4 +1,6 @@
-This is a simple Renamer bot in telegram with permanent thumbnail support ....By @TeleRoid14
+I think this repo gonna become one of the best renamer open source 🥰.
+
+Please Give a ⭐ if you like this repo and also try following me for more best open source codes
 
 ```
 Scrapped some code from @SpEcHIDe's AnyDLBot Repository
@@ -6,7 +8,7 @@ Please fork this repository don't import code
 Made with Python3
 (C) @TheTeleRoid
 Copyright permission under GNU General Public License v3.0
-License -> https://github.com/P-Phreak/RENAMER-BOT/blob/master/LICENSE
+License -> https://github.com/PredatorHackerzZ/RENAMER-BOT/blob/master/LICENSE
 ```
 
 ### Variables
@@ -27,7 +29,7 @@ License -> https://github.com/P-Phreak/RENAMER-BOT/blob/master/LICENSE
 * dthumbnail -  🎇  Delete thumbnail
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/P-Phreak/RENAMER-BOT)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/PredatorHackerzZ/RENAMER-BOT)
 
 ### Credits
 
