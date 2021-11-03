@@ -34,6 +34,8 @@ async def start(bot, update):
           disable_web_page_preview=True,
           reply_markup=InlineKeyboardMarkup( [ [ InlineKeyboardButton(text='⭕ ᴄʜᴀɴɴᴇʟ ⭕', url=f'https://t.me/{Config.UPDATE_CHANNEL}'),
                                                  InlineKeyboardButton(text='⭕ sᴜᴘᴘᴏʀᴛ ⭕', url=f'https://t.me/{Config.UPDATE_GROUP}') ],
+                                               [ InlineKeyboardButton(text='📕 ᴀʙᴏᴜᴛ', callback_data=''),
+                                                 InlineKeyboardButton(text='🗣️ ʜᴇʟᴘ', callback_data='') ],
                                                [ InlineKeyboardButton(text='🔐 ᴄʟᴏꜱᴇ 🔐', callback_data='DM') ] ] ) )
 
 
