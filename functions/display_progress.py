@@ -1,4 +1,4 @@
-#https://github.com/P-Phreak/RENAMER-BOT
+#https://t.me/SL_Jana_Team
 
 import os
 import time
