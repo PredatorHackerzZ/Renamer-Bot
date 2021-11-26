@@ -6,8 +6,8 @@ class Scripted(object):
 │<b>📁 : {1} | {2}</b>\n
 ├<b>🚀 : {0}%</b>\n
 ├<b>⚡ : {3}/s</b>\n
-├<b>⏱️ : {4}</b>\n"""
-╰───────────────⍟
+├<b>⏱️ : {4}</b>\n
+╰───────────────⍟"""
 
     HELP_TEXT = """
 <i>𝐖𝐚𝐭𝐜𝐡 𝐕𝐢𝐝𝐞𝐨 𝐇𝐨𝐰 𝐭𝐨 𝐔𝐬𝐞 𝐌𝐞 <a href='https://youtu.be/HnXdu74o34E'>[ ᴄʟɪᴄᴋ ʜᴇʀᴇ ]</a></i>\n
@@ -38,9 +38,9 @@ class Scripted(object):
 │
 ├<b>👨‍💻 Developer : <a href='https://t.me/PredatorHackerZ'>꧁ ƤℜɆĐ₳₮Øℜ 🇮🇳 ꧂</a></b>\n
 │
-├<b>🚸 Powered By : <a href='https://t.me/Moviesflixers_DL'>Tᴀᴍɪʟᴡᴇʙ Tɢ Nᴇᴛᴡᴏʀᴋ</a></b>\n"""
+├<b>🚸 Powered By : <a href='https://t.me/Moviesflixers_DL'>Tᴀᴍɪʟᴡᴇʙ Tɢ Nᴇᴛᴡᴏʀᴋ</a></b>\n
 │
-╰─────────[Thanks 😊]────────⍟
+╰─────────[Thanks 😊]────────⍟"""
 
     CUSTOM_CAPTION = "<i>{}</i>"
     ACCESS_DENIED = "<b>¥ou Are Banned 🚫</b>"
