@@ -3,10 +3,10 @@ class Scripted(object):
 
     PROGRESS_DIS = """\n
 ╭───[**🔅Progress Bar🔅**]───⍟
-│<b>📁 : {1} | {2}</b>\n
-├<b>🚀 : {0}%</b>\n
-├<b>⚡ : {3}/s</b>\n
-├<b>⏱️ : {4}</b>\n
+│<b>📁 : {1} | {2}</b>
+├<b>🚀 : {0}%</b>
+├<b>⚡ : {3}/s</b>
+├<b>⏱️ : {4}</b>
 ╰───────────────⍟"""
 
     HELP_TEXT = """
@@ -20,27 +20,27 @@ class Scripted(object):
 
 
     ABOUT_TEXT = """
-╭───[ **🔅Rᴇɴᴀᴍᴇʀ DX Bᴏᴛ🔅**]───⍟
+╭───[🔅Rᴇɴᴀᴍᴇʀ Bᴏᴛ🔅]───⍟
 │
-├<b>🤖Bot Name : <a href='https://t.me/Renamer_teleroid_bot'>Rename X2 Bot</a></b>\n
+├<b>🤖Bot Name : <a href='https://t.me/Renamer_teleroid_bot'>Rename X2 Bot</a></b>
 │
-├<b>📢 Channel : <a href='https://t.me/TeleRoidGroup'>TÉLÉRØÎD</a></b>\n
+├<b>📢 Channel : <a href='https://t.me/TeleRoidGroup'>TÉLÉRØÎD</a></b>
 │
-├<b>👥 Version : <a href='https://t.me/TeleRoid_Renamer_bot'>0.9.2 beta</a></b>\n
+├<b>👥 Version : <a href='https://t.me/TeleRoid_Renamer_bot'>0.9.2 beta</a></b>
 │
-├<b>💢 Source : <a href='https://github.com/PredatorHackerzZ/Renamer-bot'>Click Here</a></b>\n
+├<b>💢 Source : <a href='https://github.com/PredatorHackerzZ/Renamer-bot'>Click Here</a></b>
 │
-├<b>🌐 Server : <a href='https://heroku.com'>Heroku</a></b>\n
+├<b>🌐 Server : <a href='https://heroku.com'>Heroku</a></b>
 │
-├<b>📕 Library : <a href='https://github.com/pyrogram'>Pyrogram 1.2.8</a></b>\n
+├<b>📕 Library : <a href='https://github.com/pyrogram'>Pyrogram 1.2.8</a></b>
 │
-├<b>㊙ Language: <a href='https://www.python.org'>Python 3.9.4</a></b>\n
+├<b>㊙ Language: <a href='https://www.python.org'>Python 3.9.4</a></b>
 │
-├<b>👨‍💻 Developer : <a href='https://t.me/PredatorHackerZ'>꧁ ƤℜɆĐ₳₮Øℜ 🇮🇳 ꧂</a></b>\n
+├<b>👨‍💻 Developer : <a href='https://t.me/PredatorHackerZ'>@Pred∆tor</a></b>
 │
-├<b>🚸 Powered By : <a href='https://t.me/Moviesflixers_DL'>Tᴀᴍɪʟᴡᴇʙ Tɢ Nᴇᴛᴡᴏʀᴋ</a></b>\n
+├<b>🚸 Powered By : <a href='https://t.me/Moviesflixers_DL'>@HindiWebNetwork</a></b>
 │
-╰─────────[Thanks 😊]────────⍟"""
+╰──────[Thanks 😊]───⍟"""
 
     CUSTOM_CAPTION = "<i>{}</i>"
     ACCESS_DENIED = "<b>¥ou Are Banned 🚫</b>"
