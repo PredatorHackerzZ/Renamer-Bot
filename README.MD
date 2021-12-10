@@ -1,6 +1,6 @@
 ### 🌀 One of Best renamer bot repo
 
-𝐏𝐥𝐞𝐚𝐬𝐞 𝐆𝐢𝐯𝐞 𝐚 ☆ 𝐢𝐟 𝐲𝐨𝐮 𝐥𝐢𝐤𝐞 𝐭𝐡𝐢𝐬 𝐫𝐞𝐩𝐨 𝐚𝐧𝐝 𝐚𝐥𝐬𝐨 𝐭𝐫𝐲 𝐟𝐨𝐥𝐥𝐨𝐰𝐢𝐧𝐠 𝐦𝐞 𝐟𝐨𝐫 𝐦𝐨𝐫𝐞 𝐛𝐞𝐬𝐭 𝐨𝐩𝐞𝐧 𝐬𝐨𝐮𝐫𝐜𝐞 𝐜𝐨𝐝𝐞𝐬
+**Please Give a ☆ if You like This Open Source and Don't Forget to Follow Me On Github For More Repos And Codes.**
 
 ```
 Scrapped some code from @SpEcHIDe's AnyDLBot Repository
@@ -34,5 +34,4 @@ License -> https://github.com/PredatorHackerzZ/RENAMER-BOT/blob/master/LICENSE
 ### Credits
 
 * [Pyrogram](https://github.com/pyrogram/pyrogram)
-* [Shrimadhav UK](https://github.com/SpEcHIDe)
 * [Clinton Abraham](https://github.com/Clinton-Abraham)
