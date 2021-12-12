@@ -29,7 +29,14 @@ License -> https://github.com/PredatorHackerzZ/RENAMER-BOT/blob/master/LICENSE
 * dthumbnail -  🎇  Delete thumbnail
 
 
+### Video For how to  deploy to heroku. 
+
+[CLICK HERE FOR WATCHING THE TUTORIAL VIDEO](https://www.youtube.com/watch?v=2FHgg8o1YY8) 
+
+### Deploy To Heroku. 
+
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/PredatorHackerzZ/RENAMER-BOT)
+
 
 ### Credits
 
