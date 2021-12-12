@@ -55,7 +55,7 @@ class Scripted(object):
     THUMBNAIL_DELETED = "<i>𝐘𝐨𝐮𝐫 𝐓𝐡𝐮𝐦𝐛𝐧𝐚𝐢𝐥 𝐃𝐞𝐥𝐞𝐭𝐞𝐝 ✅</i>"
     NO_THUMBNAIL_FOUND = "<i>𝐍𝐨 𝐓𝐡𝐮𝐦𝐛𝐧𝐚𝐢𝐥 𝐅𝐨𝐮𝐧𝐝 (Konsi Goals Chahiye)😔</i>"
     TRYING_TO_DOWNLOAD = "<i>Trying to Download....</i>"
-    UPLOAD_SUCCESS = "<u><i>Tʜᴀɴᴋᴀ Fᴏʀ Usɪɴɢ ᴍᴇ❤ @TheTeleRoid</i></u>"
+    UPLOAD_SUCCESS = "<u><i>Tʜᴀɴᴋs Fᴏʀ Usɪɴɢ ᴍᴇ❤ Join @TheTeleRoid</i></u>"
     REPLY_TO_MEDIA = "<i>Reply to Media For Converting with Command /convert</i>"
     UPLOAD_START = "<i>📤 Uploading Your File Please wait...</i>\n"
     DOWNLOAD_START = "<i>📥 Downloading Your File Please wait...</i>\n"
