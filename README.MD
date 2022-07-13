@@ -35,7 +35,7 @@ License -> https://github.com/PredatorHackerzZ/RENAMER-BOT/blob/master/LICENSE
 
 ### Deploy To Heroku. 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/PredatorHackerzZ/RENAMER-BOT)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/DX-Bots/RENAMER-BOT)
 
 
 ### Credits
