@@ -2,15 +2,6 @@
 
 **Please Give a ☆ if You like This Open Source and Don't Forget to Follow Me On Github For More Repos And Codes.**
 
-```
-Scrapped some code from @SpEcHIDe's AnyDLBot Repository
-Please fork this repository don't import code
-Made with Python3
-(C) @TheTeleRoid
-Copyright permission under GNU General Public License v3.0
-License -> https://github.com/PredatorHackerzZ/RENAMER-BOT/blob/master/LICENSE
-```
-
 ### Variables
 
 * `API_HASH` Your API Hash from my.telegram.org
