@@ -9,3 +9,5 @@
 ### Deploy To Heroku. 
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/DX-Bots/RENAMER-BOT)
+
+## Thanks me Later!...😁
